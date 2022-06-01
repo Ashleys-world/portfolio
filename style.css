@@ -1,0 +1,36 @@
+*{
+    color: #2b2e3b;
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    /*font-weight: 600;*/
+}
+
+.bg-navy{
+    color : white ;
+    background-color: #2b2e3b;
+    font-family: 'Roboto', sans-serif;
+}
+
+.emts{
+
+    color : white ;
+    background-color: #2b2e3b;
+    padding: 4px;
+}
+
+.lK{
+    text-decoration: none;
+    color: #2b2e3b;
+}
+
+.spcg{
+    text-decoration: none;
+     margin-left: 4px;
+     color: #2b2e3b;
+}
+
+.lk2 a{
+    text-decoration: none;
+    color: #2b2e3b;
+}
