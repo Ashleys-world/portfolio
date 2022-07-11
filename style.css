@@ -12,24 +12,30 @@
     font-family: 'Roboto', sans-serif;
 }
 
+/*elements class to span items in the skills section*/
 .emts{
 
     color : white ;
     background-color: #2b2e3b;
     padding: 4px;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
 
+/*styling for link items */
 .lK{
     text-decoration: none;
     color: #2b2e3b;
 }
 
+/*spacing class*/
 .spcg{
     text-decoration: none;
      margin-left: 4px;
      color: #2b2e3b;
 }
 
+/*another styling for link items*/
 .lk2 a{
     text-decoration: none;
     color: #2b2e3b;
